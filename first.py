@@ -1,1 +1,1 @@
-print('Hello, World!, V5')
+print('Hello, World!, V6')
