@@ -11,6 +11,10 @@ pipeline{
             steps{
                 sh 'python3 first.py'
             }
+
+	    steps{
+	    	sh 'echo "success"'
+	    }
         }
     }
 }
